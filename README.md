@@ -26,4 +26,3 @@ https://discord.gg/programming
 Since 2021:
 - Learning how to write game engines
 - Played lots of chess ♟
-- 
