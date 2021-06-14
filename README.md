@@ -20,7 +20,8 @@ https://discord.gg/programming
 - Express
 - NestJS
 - Docker  
-... This list goes on for a long time. I'm not gonna bore you to death and list everything that I have a vague idea of. 😁
+... This list goes on for a long time. I'm not gonna bore you to death and list everything that I have a vague idea of. 😁  
+If you're curious, you can always reach me via Discord or via email.
 
 ## Activity
 Since 2021:
