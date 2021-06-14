@@ -1,6 +1,6 @@
 # About me 👋
-🔨 Working towards becoming a Software Engineer
-📌 Hämeenlinna, Finland
+🔨 Working towards becoming a Software Engineer  
+📌 Hämeenlinna, Finland  
 
 ## Social
 You can reach me on Discord as `nnari#0001`.  
