@@ -19,8 +19,8 @@ https://discord.gg/programming
 - React
 - Express
 - NestJS
-- Docker
-... This list goes on for. I'm not gonna bore you to death and list everything that I have a vague idea of. 
+- Docker  
+... This list goes on for a long time. I'm not gonna bore you to death and list everything that I have a vague idea of. 😁
 
 ## Activity
 Since 2021:
