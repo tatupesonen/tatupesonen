@@ -10,7 +10,7 @@ https://discord.gg/programming
 ## Currently learning
 - GraphQL
 - Redux
-- C++, compiler design
+- Rust, compiler design
 - Implementing Entity Component Systems
 
 ## Familiar with
