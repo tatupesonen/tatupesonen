@@ -3,7 +3,7 @@
 📌 Hämeenlinna, Finland  
 
 ## Social
-You can reach me on Discord as `nnari#0001`.  
+You can reach me on Discord as `narigon#0001`.  
 I also frequent The Programmer's Hangout server, and you can find me over there:  
 https://discord.gg/programming
 
