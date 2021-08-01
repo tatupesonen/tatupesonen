@@ -8,10 +8,9 @@ I also frequent The Programmer's Hangout server, and you can find me over there:
 https://discord.gg/programming
 
 ## Currently learning
-- GraphQL
+- Discord.JS
 - Redux
 - Rust, compiler design
-- Implementing Entity Component Systems
 
 ## Familiar with
 - JavaScript / TypeScript
