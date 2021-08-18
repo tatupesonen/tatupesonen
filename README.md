@@ -11,6 +11,7 @@ https://discord.gg/programming
 - Discord.JS
 - Redux
 - Rust, compiler design
+- Solidity
 
 ## Familiar with
 - JavaScript / TypeScript
