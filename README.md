@@ -4,7 +4,7 @@
 
 ## Social
 You can reach me on Discord as `narigon#0001`.  
-I also moderate on The Programmer's Hangout server, and you can find me over there:  
+I also moderate & assist on The Programmer's Hangout server, and you can find me over there:  
 <p>
     <a href="https://discord.gg/programming">
         <img alt="Discord Banner" src="https://discordapp.com/api/guilds/244230771232079873/widget.png?style=banner3"/>
