@@ -31,4 +31,4 @@ If you're curious, you can always reach me via Discord or via email.
 Since 2021:
 - Learning how to write game engines
 - Played lots of chess ♟
-- Created FormatBot, a tool for formatting code in Discord servers.
+- Created [FormatBot](https://github.com/tatupesonen/formatbot), a tool for formatting code in Discord servers.
