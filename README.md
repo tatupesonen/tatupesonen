@@ -15,7 +15,7 @@ I also moderate & assist on The Programmer's Hangout server, and you can find me
 
 
 ## Currently learning
-- Discord.JS
+- Elixir
 - Redux
 - Rust, compiler design
 - Solidity
