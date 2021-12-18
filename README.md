@@ -18,7 +18,6 @@ I also moderate & assist on The Programmer's Hangout server, and you can find me
 - Elixir
 - Redux
 - Rust, compiler design
-- Solidity
 
 ## Familiar with
 - JavaScript / TypeScript
