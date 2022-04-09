@@ -17,20 +17,24 @@ I also moderate & assist on The Programmer's Hangout server, and you can find me
 ## Currently learning
 - Elixir
 - Redux
-- Rust, compiler design
 
 ## Familiar with
 - JavaScript / TypeScript
+- Laravel & PHP
 - NodeJS
 - React
 - Express
 - NestJS
-- Docker  
+- Docker
 ... This list goes on for a long time. I'm not gonna bore you to death and list everything that I have a vague idea of. 😁  
 If you're curious, you can always reach me via Discord or via email.
 
 ## Activity
+Since 2022:
+- Started my blog at https://narigon.dev
+
 Since 2021:
+- Got my first dev job!
 - Learning how to write game engines
 - Played lots of chess ♟
 - Created [FormatBot](https://github.com/tatupesonen/formatbot), a tool for formatting code in Discord servers.
