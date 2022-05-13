@@ -31,6 +31,7 @@ If you're curious, you can always reach me via Discord or via email.
 
 ## Activity
 Since 2022:
+- Playing around with Rust on the ESP32-C3 microcontroller
 - Started my blog at https://narigon.dev
 
 Since 2021:
