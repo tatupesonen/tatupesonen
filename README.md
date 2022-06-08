@@ -10,9 +10,6 @@ I also moderate & assist on The Programmer's Hangout server, and you can find me
     </a>
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/121777389012385796)](https://discord.com/users/121777389012385796)
-
-
 ## Currently learning
 - Elixir
 - Rust
