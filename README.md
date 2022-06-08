@@ -1,5 +1,4 @@
 # About me 👋
-🔨 Working towards becoming a Software Engineer  
 📌 Hämeenlinna, Finland  
 
 ## Social
