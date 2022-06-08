@@ -15,13 +15,14 @@ I also moderate & assist on The Programmer's Hangout server, and you can find me
 
 ## Currently learning
 - Elixir
-- Redux
+- Rust
 
 ## Familiar with
 - JavaScript / TypeScript
 - Laravel & PHP
 - NodeJS
 - React
+- Redux
 - Express
 - NestJS
 - Docker
