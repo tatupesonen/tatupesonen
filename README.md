@@ -11,8 +11,9 @@ I also moderate & assist on The Programmer's Hangout server, and you can find me
 </p>
 
 ## Currently learning
-- Elixir
 - Rust
+- Haskell
+- Kubernetes and cloud administration
 
 ## Familiar with
 - JavaScript / TypeScript
