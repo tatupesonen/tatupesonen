@@ -12,8 +12,8 @@ I also moderate & assist on The Programmer's Hangout server, and you can find me
 
 ## Currently learning
 - Rust
-- Haskell
 - Kubernetes and cloud administration
+- Terraform
 
 ## Familiar with
 - JavaScript / TypeScript
