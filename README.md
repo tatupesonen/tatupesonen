@@ -2,4 +2,4 @@
 <p align='center'>
 I'm Tatu.
 </p>
-<p align='center'>For enquiries, reach out via email at tatu@narigon.dev.</p>
+<p align='center'>For inquiries, reach out via email at tatu@narigon.dev.</p>
